@@ -1,0 +1,43 @@
+h1, h2 {
+	text-align:center;
+}
+
+#strip {
+	margin-left: 20%;
+}
+
+table {
+	margin: auto;
+	border: 1px solid black;
+}
+
+tr,td {
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	
+	margin: auto;
+}
+
+tr {
+	padding: 4px;
+}
+
+/*#box11{
+	background: rgb(211,206,13);
+}
+#box12{
+	background: rgb(120,119,26);
+}
+#box13{
+	background: rgb(0,232,110);
+}
+#box21{
+	background: rgb(150,150,120);
+}
+#box22{
+	background: rgb(120,90,176);
+}
+#box23{
+	background: rgb(110,210,0);
+}*/
